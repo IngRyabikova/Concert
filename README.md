@@ -17,3 +17,8 @@
 * Города
 * Виды билетов (на такое-то событие 5 дешевых, 200 дорогих...)
 
+### Рейтинг
+https://docs.google.com/spreadsheets/d/1zxSHuP_HI2GynVMPG2Qe7xxhZ9rsYm5qTj0rQWr_yjg/edit#gid=296788835
+
+### Задачи
+https://docs.google.com/spreadsheets/d/1zxSHuP_HI2GynVMPG2Qe7xxhZ9rsYm5qTj0rQWr_yjg/edit#gid=794532764

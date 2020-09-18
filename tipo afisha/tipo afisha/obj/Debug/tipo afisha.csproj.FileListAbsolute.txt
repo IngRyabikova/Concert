@@ -1,9 +1,0 @@
-C:\Users\i\source\repos\tipo afisha\tipo afisha\bin\Debug\tipo afisha.exe.config
-C:\Users\i\source\repos\tipo afisha\tipo afisha\bin\Debug\tipo afisha.exe
-C:\Users\i\source\repos\tipo afisha\tipo afisha\bin\Debug\tipo afisha.pdb
-C:\Users\i\source\repos\tipo afisha\tipo afisha\obj\Debug\tipo afisha.csprojAssemblyReference.cache
-C:\Users\i\source\repos\tipo afisha\tipo afisha\obj\Debug\tipo_afisha.Form1.resources
-C:\Users\i\source\repos\tipo afisha\tipo afisha\obj\Debug\tipo_afisha.Properties.Resources.resources
-C:\Users\i\source\repos\tipo afisha\tipo afisha\obj\Debug\tipo afisha.csproj.GenerateResource.cache
-C:\Users\i\source\repos\tipo afisha\tipo afisha\obj\Debug\tipo afisha.exe
-C:\Users\i\source\repos\tipo afisha\tipo afisha\obj\Debug\tipo afisha.pdb
